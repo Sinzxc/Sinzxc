@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**Sinzxc/Sinzxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ⚡ I'm a beginner web developer, currently studying in college.
 
-Here are some ideas to get you started:
+ :trollface: My interests include front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm on the lookout for new projects and learning opportunities. My tech stack includes:
+- HTML5             
+- SCSS (CSS3)       
+- React (JavaScript)
+
+💡 Enthusiastic about creating something new and exchanging ideas. Let's build something amazing together!
+
+📫 Contact me at: sin.zxc@bk.ru | ❗ Telegram: @S1nzxc
+
+Looking forward to new connections and collaboration opportunities! 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinzxc&layout=compact&theme=dark&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
