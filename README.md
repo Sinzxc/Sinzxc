@@ -2,7 +2,7 @@
 
  ⚡ I'm a beginner web developer, currently studying in college.
 
- :trollface: My interests include front-end development.
+ :trollface: My interests include everything related to front-end development.
 
 🚀 I'm on the lookout for new projects and learning opportunities. My tech stack includes:
 - HTML5             
